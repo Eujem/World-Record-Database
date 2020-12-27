@@ -19,7 +19,7 @@ This Diagram shows the dependency of each column in every table in this database
 
 ## Complex Queries
 
-* Query 1
+#### Query 1
     1.    This query shows the official language of all the country.**
     2.    It is important to know the official language of each country in the database.
     3.    [Query and Sample Output](/sample/query1.md)
