@@ -14,4 +14,4 @@
 ![](/images/query1.png)
 
 
-[Go Back](/README.md/)
+[Go Back](/README.md/#Query)
