@@ -19,11 +19,17 @@ This Diagram shows the dependency of each column in every table in this database
 
 ## Complex Queries
 
-
 #### Query 1
 * 
     1.    This query shows the official language of all the country.
     2.    It is important to know the official language of each country in the database.
     3.    [Query and Sample Output](/sample/query.md/#Query-1)
+
+
+#### Query 2
+* 
+    1.    This query can show all the city in each country.
+    2.    This is important because using this query you can get all the cities in the country you want to know.
+    3.    [Query and Sample Output](/sample/query.md/#Query-2)
 
 
