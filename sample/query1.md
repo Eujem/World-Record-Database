@@ -1,11 +1,13 @@
 
 ## Query
 
-SELECT country.CountryName, countrylanguage.Language AS OfficialLanguage
-FROM country
-LEFT JOIN countrylanguage
-ON country.Code = countrylanguage.Language
-AND countrylanguage.IsOfficial = 'T';
+### SELECT country.CountryName, countrylanguage.Language AS OfficialLanguage
+### FROM country
+### LEFT JOIN countrylanguage
+### ON country.Code = countrylanguage.CountryCode
+### AND countrylanguage.IsOfficial = 'T'
+### ORDER BY country.CountryName;
+
 
 ## Output
 
