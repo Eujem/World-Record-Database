@@ -1,7 +1,7 @@
 
 # Query
 
-### SELECT country.CountryName, countrylanguage.Language AS OfficialLanguage
+### SELECT country.CountryName, IFNULL(countrylanguage.Language, 'N/A') AS OfficialLanguage
 ### FROM country
 ### LEFT JOIN countrylanguage
 ### ON country.Code = countrylanguage.CountryCode
