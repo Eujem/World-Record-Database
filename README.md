@@ -24,6 +24,6 @@ This Diagram shows the dependency of each column in every table in this database
 * 
     1.    This query shows the official language of all the country.
     2.    It is important to know the official language of each country in the database.
-    3.    [Query and Sample Output](/sample/query.md)
+    3.    [Query and Sample Output](/sample/query.md/#Query-1)
 
 
