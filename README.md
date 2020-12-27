@@ -19,4 +19,4 @@ This Diagram shows the dependency of each column in every table in this database
 
 ## Complex Queries
 
-[About](/sample/qwerty)
+[Sample Output](/sample/qwerty.md)
