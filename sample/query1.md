@@ -15,4 +15,4 @@
 ![](/images/query1.png)
 
 
-[Go Back](/README.md/, #query-1)
+[Go Back](/README.md/)(#query-1)
