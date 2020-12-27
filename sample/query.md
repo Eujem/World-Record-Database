@@ -14,3 +14,18 @@
 
 
 [Go Back](/README.md/#Query-1)
+
+
+## Query 2
+
+#### SELECT country.CountryName AS Country, city.CityName AS City
+#### FROM country
+#### INNER JOIN city
+#### ON country.Code = city.CountryCode
+#### AND country.CountryName = 'Philippines'
+
+## Output
+
+![](/images/query2.png)
+
+[Go Back](/README.md/#Query-2)
