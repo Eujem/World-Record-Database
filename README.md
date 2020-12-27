@@ -14,3 +14,4 @@ This Database is all about the records of all the country in the World. From the
 ## Database Dependency Diagram
 ![](images/DDD.png)
 
+This Diagram shows the dependency of each column in every table in this database.
