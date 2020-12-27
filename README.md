@@ -11,4 +11,6 @@ This Database is all about the records of all the country in the World. From the
   2. City - shows all the city in every country in the table "Country".
   3. countrylanguage - showing all the language and dialect of all the country.
 
+# Database Dependency Diagram
+
 
