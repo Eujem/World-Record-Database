@@ -1,5 +1,5 @@
 
-## Query
+# Query
 
 ### SELECT country.CountryName, countrylanguage.Language AS OfficialLanguage
 ### FROM country
@@ -9,6 +9,6 @@
 ### ORDER BY country.CountryName;
 
 
-## Output
+# Output
 
 ![](images/query1.png)
