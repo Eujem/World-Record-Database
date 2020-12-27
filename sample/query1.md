@@ -9,6 +9,7 @@
 ### ORDER BY country.CountryName;
 
 
+
 # Output
 
 ![](images/query1.png)
