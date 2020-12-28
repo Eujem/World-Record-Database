@@ -26,10 +26,10 @@ This Diagram shows the dependency of each column in every table in this database
     3.    [Query and Sample Output](/sample/query.md/#Query-1)
 
 
-#### Query 2
+#### Query 3
 * 
-    1.    This query can show all the city in each country.
-    2.    This is important because using this query you can get all the cities in the country you want to know.
-    3.    [Query and Sample Output](/sample/query.md/#Query-2)
+    1.    This query counts how many regions are listed in the Database.
+    2.    This query is important because it can count unique value in a table.
+    3.    [Query and Sample Output](/sample/query.md/#Query-3)
 
 
