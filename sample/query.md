@@ -56,10 +56,12 @@
 
 ## Query 5
 
-#### SELECT CountryName, Population,
-#### ROW_NUMBER() OVER(ORDER BY Population DESC) RANK
+#### SELECT country.CountryName, COUNT(countrylanguage.Language) AS LanguageCount
 #### FROM country
-#### LIMIT 10;
+#### LEFT JOIN countrylanguage
+#### ON country.code = countrylanguage.CountryCode
+#### GROUP BY countrylanguage.CountryCode
+#### ORDER BY LanguageCount DESC
 
 ## Output
 
