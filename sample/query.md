@@ -40,3 +40,16 @@
 ![](/images/query3.png)
 
 [Go Back](/README.md/#Query-3)
+
+## Query 4
+
+#### SELECT CountryName, Population,
+#### ROW_NUMBER() OVER(ORDER BY Population DESC) RANK
+#### FROM country
+#### LIMIT 10;
+
+## Output
+
+![](/images/query4.png)
+
+[Go Back](/README.md/#Query-4)
