@@ -72,10 +72,11 @@
 
 ## Query 6
 
-#### SELECT CountryName, Population,
-#### ROW_NUMBER() OVER(ORDER BY Population DESC) RANK
-#### FROM country
-#### LIMIT 10;
+#### SELECT DISTINCT SurfaceArea, CountryName 
+#### FROM country e1 
+#### WHERE 2 = (SELECT count(DISTINCT SurfaceArea) 
+#### FROM country e2 
+#### WHERE e1.SurfaceArea <= e2.SurfaceArea);
 
 ## Output
 
