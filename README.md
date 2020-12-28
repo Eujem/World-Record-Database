@@ -42,4 +42,40 @@ This Diagram shows the dependency of each column in every table in this database
     1.    This query shows the top 10 country with biggest population.
     2.    This query can help determine what countries is the most populated.
     3.    [Query and Sample Output](/sample/query.md/#Query-4)
+    
+#### Query 5
+* 
+    1.    This query shows the top 10 country with biggest population.
+    2.    This query can help determine what countries is the most populated.
+    3.    [Query and Sample Output](/sample/query.md/#Query-5)
+    
+#### Query 6
+* 
+    1.    This query shows the top 10 country with biggest population.
+    2.    This query can help determine what countries is the most populated.
+    3.    [Query and Sample Output](/sample/query.md/#Query-6)
+    
+#### Query 7
+* 
+    1.    This query shows the top 10 country with biggest population.
+    2.    This query can help determine what countries is the most populated.
+    3.    [Query and Sample Output](/sample/query.md/#Query-7)
+    
+#### Query 8
+* 
+    1.    This query shows the top 10 country with biggest population.
+    2.    This query can help determine what countries is the most populated.
+    3.    [Query and Sample Output](/sample/query.md/#Query-8)
+    
+#### Query 9
+* 
+    1.    This query shows the top 10 country with biggest population.
+    2.    This query can help determine what countries is the most populated.
+    3.    [Query and Sample Output](/sample/query.md/#Query-9)
+   
+#### Query 10
+* 
+    1.    This query shows the top 10 country with biggest population.
+    2.    This query can help determine what countries is the most populated.
+    3.    [Query and Sample Output](/sample/query.md/#Query-10)
 
