@@ -57,8 +57,8 @@ This Diagram shows the dependency of each column in every table in this database
     
 #### Query 7
 * 
-    1.    This query shows the top 10 country with biggest population.
-    2.    This query can help determine what countries is the most populated.
+    1.    This query will show the country with smallest Surface Area
+    2.    This query can show you the smallest value in a column.
     3.    [Query and Sample Output](/sample/query.md/#Query-7)
     
 #### Query 8
