@@ -86,7 +86,7 @@
 
 ## Query 7
 
-#### SELECT distinct SurfaceArea
+#### SELECT distinct SurfaceArea, CountryName
 #### FROM country e1 
 #### where 1 = (select count(distinct SurfaceArea) 
 #### country e2 
