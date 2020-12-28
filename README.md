@@ -51,8 +51,8 @@ This Diagram shows the dependency of each column in every table in this database
     
 #### Query 6
 * 
-    1.    This query shows the top 10 country with biggest population.
-    2.    This query can help determine what countries is the most populated.
+    1.    This query shows the second country with biggest Surface Area.
+    2.    This query can determine the ranking of countries in terms of Surface Area.
     3.    [Query and Sample Output](/sample/query.md/#Query-6)
     
 #### Query 7
