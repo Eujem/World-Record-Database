@@ -54,7 +54,7 @@
 
 [Go Back](/README.md/#Query-4)
 
-## Query 4
+## Query 5
 
 #### SELECT CountryName, Population,
 #### ROW_NUMBER() OVER(ORDER BY Population DESC) RANK
@@ -68,7 +68,7 @@
 [Go Back](/README.md/#Query-5)
 
 
-## Query 4
+## Query 6
 
 #### SELECT CountryName, Population,
 #### ROW_NUMBER() OVER(ORDER BY Population DESC) RANK
@@ -81,7 +81,7 @@
 
 [Go Back](/README.md/#Query-6)
 
-## Query 4
+## Query 7
 
 #### SELECT CountryName, Population,
 #### ROW_NUMBER() OVER(ORDER BY Population DESC) RANK
@@ -94,7 +94,7 @@
 
 [Go Back](/README.md/#Query-7)
 
-## Query 4
+## Query 8
 
 #### SELECT CountryName, Population,
 #### ROW_NUMBER() OVER(ORDER BY Population DESC) RANK
@@ -107,7 +107,7 @@
 
 [Go Back](/README.md/#Query-8)
 
-## Query 4
+## Query 9
 
 #### SELECT CountryName, Population,
 #### ROW_NUMBER() OVER(ORDER BY Population DESC) RANK
@@ -120,7 +120,7 @@
 
 [Go Back](/README.md/#Query-9)
 
-## Query 4
+## Query 10
 
 #### SELECT CountryName, Population,
 #### ROW_NUMBER() OVER(ORDER BY Population DESC) RANK
