@@ -37,4 +37,9 @@ This Diagram shows the dependency of each column in every table in this database
     2.    This query is important because it can count unique value in a table.
     3.    [Query and Sample Output](/sample/query.md/#Query-3)
 
+#### Query 4
+* 
+    1.    This query shows the top 10 country with biggest population.
+    2.    This query can help determine what countries is the most populated.
+    3.    [Query and Sample Output](/sample/query.md/#Query-4)
 
