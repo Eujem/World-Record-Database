@@ -29,3 +29,14 @@
 ![](/images/query2.png)
 
 [Go Back](/README.md/#Query-2)
+
+## Query 3
+
+#### SELECT COUNT(DISTINCT Region) AS Total_Count_of_Regions
+#### FROM country
+
+## Output
+
+![](/images/query3.png)
+
+[Go Back](/README.md/#Query-3)
