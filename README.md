@@ -75,7 +75,7 @@ This Diagram shows the dependency of each column in every table in this database
    
 #### Query 10
 * 
-    1.    This query shows the top 10 country with biggest population.
-    2.    This query can help determine what countries is the most populated.
+    1.    This query determine if the population of the city is less than or greater than 500,000
+    2.    This query helps to segregate the values in a column in a condition you want.
     3.    [Query and Sample Output](/sample/query.md/#Query-10)
 
