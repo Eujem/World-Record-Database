@@ -85,3 +85,8 @@ This Diagram shows the dependency of each column in every table in this database
     2.    This query helps to count a specific value that has similarities.
     3.    [Query and Sample Output](/sample/query.md/#Query-11)
 
+#### Query 12
+* 
+    1.    This query determine what countries has a Null value in the HeadOfState.
+    2.    This query can find what columns has a Null value.
+    3.    [Query and Sample Output](/sample/query.md/#Query-12)
