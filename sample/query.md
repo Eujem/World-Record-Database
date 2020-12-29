@@ -129,10 +129,12 @@
 
 ## Query 10
 
-#### SELECT CountryName, Population,
-#### ROW_NUMBER() OVER(ORDER BY Population DESC) RANK
-#### FROM country
-#### LIMIT 10;
+#### SELECT CityName, Population,
+#### CASE 
+#### WHEN Population > 500000 THEN 'This city has a population of More than 500,000'
+#### ELSE 'This city has a population of less than or equal to 500,000'
+#### END AS PopulationCheck
+#### FROM city
 
 ## Output
 
