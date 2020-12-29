@@ -155,3 +155,15 @@
 
 [Go Back](/README.md/#Query-11)
 
+## Query 12
+
+#### SELECT CountryName, Region, Continent, HeadOfState 
+#### FROM country
+#### WHERE HeadOfState IS NUL
+
+## Output
+
+![](/images/query12.png)
+
+[Go Back](/README.md/#Query-12)
+
