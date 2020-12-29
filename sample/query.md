@@ -100,10 +100,10 @@
 
 ## Query 8
 
-#### SELECT CountryName, Population,
-#### ROW_NUMBER() OVER(ORDER BY Population DESC) RANK
+#### SELECT CONCAT( CountryName, ', ' , Continent, ', ' , Region, ', ' , GovernmentForm, ', ' , HeadOfState)
+#### AS CompleteInformation
 #### FROM country
-#### LIMIT 10;
+#### LIMIT 20;
 
 ## Output
 
