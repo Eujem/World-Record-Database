@@ -179,3 +179,15 @@
 
 [Go Back](/README.md/#Query-13)
 
+## Query 14
+
+#### SELECT * FROM city
+#### JOIN countrylanguage
+#### WHERE city.CountryCode = countrylanguage.CountryCode
+
+## Output
+
+![](/images/query14.png)
+
+[Go Back](/README.md/#Query-14)
+
