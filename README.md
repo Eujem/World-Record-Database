@@ -90,3 +90,9 @@ This Diagram shows the dependency of each column in every table in this database
     1.    This query determine what countries has a Null value in the HeadOfState.
     2.    This query can find what columns has a Null value.
     3.    [Query and Sample Output](/sample/query.md/#Query-12)
+    
+#### Query 13
+* 
+    1.    This query displays the countries that starts with letter "A".
+    2.    This query can help you search for a specific column using a keyword. 
+    3.    [Query and Sample Output](/sample/query.md/#Query-13)
