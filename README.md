@@ -96,3 +96,9 @@ This Diagram shows the dependency of each column in every table in this database
     1.    This query displays the countries that starts with letter "A".
     2.    This query can help you search for a specific column using a keyword. 
     3.    [Query and Sample Output](/sample/query.md/#Query-13)
+
+#### Query 14
+* 
+    1.    This query displays all the column from two different tables.
+    2.    This query combines two specific tables. 
+    3.    [Query and Sample Output](/sample/query.md/#Query-14)
