@@ -63,8 +63,8 @@ This Diagram shows the dependency of each column in every table in this database
     
 #### Query 8
 * 
-    1.    This query shows the top 10 country with biggest population.
-    2.    This query can help determine what countries is the most populated.
+    1.    This query shows 20 countries with their information in a single column.
+    2.    This query helps you to combine all the informations in a single column.
     3.    [Query and Sample Output](/sample/query.md/#Query-8)
     
 #### Query 9
