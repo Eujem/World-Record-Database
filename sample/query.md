@@ -167,3 +167,15 @@
 
 [Go Back](/README.md/#Query-12)
 
+## Query 13
+
+#### SELECT CountryName, Continent, Region, Population, GovernmentForm
+#### FROM country
+#### WHERE CountryName LIKE 'a%';
+
+## Output
+
+![](/images/query13.png)
+
+[Go Back](/README.md/#Query-13)
+
