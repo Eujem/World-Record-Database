@@ -79,3 +79,9 @@ This Diagram shows the dependency of each column in every table in this database
     2.    This query helps to segregate the values in a column in a condition you want.
     3.    [Query and Sample Output](/sample/query.md/#Query-10)
 
+#### Query 11
+* 
+    1.    This query shows how many countries belongs to a certain region.
+    2.    This query helps to count a specific value that has similarities.
+    3.    [Query and Sample Output](/sample/query.md/#Query-11)
+
