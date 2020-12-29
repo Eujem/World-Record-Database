@@ -69,8 +69,8 @@ This Diagram shows the dependency of each column in every table in this database
     
 #### Query 9
 * 
-    1.    This query shows the top 10 country with biggest population.
-    2.    This query can help determine what countries is the most populated.
+    1.    This query display the ranking of each city in every country with the number of population.
+    2.    This query can determine which city is more populated in every country.
     3.    [Query and Sample Output](/sample/query.md/#Query-9)
    
 #### Query 10
