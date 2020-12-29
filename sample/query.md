@@ -113,10 +113,13 @@
 
 ## Query 9
 
-#### SELECT CountryName, Population,
-#### ROW_NUMBER() OVER(ORDER BY Population DESC) RANK
+#### SELECT country.CountryName, city.CityName, city.Population,
+#### RANK() OVER(PARTITION BY country.CountryName ORDER BY city.Population DESC) Rank
 #### FROM country
-#### LIMIT 10;
+#### RIGHT JOIN city
+#### ON country.Code = city.CountryCode
+#### ORDER BY country.CountryName,
+#### Rank;
 
 ## Output
 
