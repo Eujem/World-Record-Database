@@ -141,3 +141,16 @@
 ![](/images/query10.png)
 
 [Go Back](/README.md/#Query-10)
+
+## Query 11
+
+#### SELECT Region, COUNT( Region) as Countries_in_this_Region
+#### FROM country
+#### GROUP BY Region
+
+## Output
+
+![](/images/query11.png)
+
+[Go Back](/README.md/#Query-11)
+
