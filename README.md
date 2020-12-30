@@ -133,3 +133,9 @@ This Diagram shows the dependency of each column in every table in this database
     1.    This query displays how many cities in every country.
     2.    This query can help you count a values in two different table.
     3.    [Query and Sample Output](/sample/query.md/#Query-19)
+
+#### Query 20
+* 
+    1.    This query displays how many language in the world and how many is official and not.
+    2.    This query can help you count a specific value in a column.
+    3.    [Query and Sample Output](/sample/query.md/#Query-20)
