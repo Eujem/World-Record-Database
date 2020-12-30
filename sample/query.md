@@ -230,3 +230,15 @@
 ![](/images/query17.png)
 
 [Go Back](/README.md/#Query-17)
+
+## Query 18
+
+#### UPDATE country
+#### SET HeadOfState = 'Rodrigo R. Duterte'
+#### WHERE CountryName = 'Philippines';
+
+## Output
+
+![](/images/query18.png)
+
+[Go Back](/README.md/#Query-18)
