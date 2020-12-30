@@ -102,3 +102,9 @@ This Diagram shows the dependency of each column in every table in this database
     1.    This query displays all the column from two different tables.
     2.    This query combines two specific tables. 
     3.    [Query and Sample Output](/sample/query.md/#Query-14)
+    
+#### Query 15
+* 
+    1.    This query shows the total count of all the unique values in a column.
+    2.    This query can show you how to use SUM and COUNT, and how useful it is.
+    3.    [Query and Sample Output](/sample/query.md/#Query-15)
