@@ -256,3 +256,15 @@
 ![](/images/query19.png)
 
 [Go Back](/README.md/#Query-19)
+
+## Query 20
+
+#### SELECT COUNT(Language) AS TotalLanguage, COUNT(CASE IsOfficial WHEN 'T' THEN 1 ELSE NULL END) AS OfficialLanguage,
+#### COUNT(CASE IsOfficial WHEN 'F' THEN 1 ELSE NULL END) AS NotOfficial
+#### FROM countryLanguage
+
+## Output
+
+![](/images/query20.png)
+
+[Go Back](/README.md/#Query-20)
