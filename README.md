@@ -108,3 +108,9 @@ This Diagram shows the dependency of each column in every table in this database
     1.    This query shows the total count of all the unique values in a column.
     2.    This query can show you how to use SUM and COUNT, and how useful it is.
     3.    [Query and Sample Output](/sample/query.md/#Query-15)
+
+#### Query 16
+* 
+    1.    This query calculates the total average of population in every city in a country.
+    2.    This query can give you average count in a column.
+    3.    [Query and Sample Output](/sample/query.md/#Query-16)
