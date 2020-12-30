@@ -203,3 +203,16 @@
 
 [Go Back](/README.md/#Query-15)
 
+## Query 16
+
+#### SELECT country.CountryName, AVE(city.Population) AS AverageCityPopulation
+#### FROM city
+#### RIGHT JOIN country
+#### ON city.CountryCode = country.Code
+#### GROUP BY CountryCode;
+
+## Output
+
+![](/images/query16.png)
+
+[Go Back](/README.md/#Query-16)
