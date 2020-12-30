@@ -127,3 +127,9 @@ This Diagram shows the dependency of each column in every table in this database
     1.    This query updates a single column in a table.
     2.    This query gives you access to update a specific column.
     3.    [Query and Sample Output](/sample/query.md/#Query-18)
+
+#### Query 19
+* 
+    1.    This query displays how many cities in every country.
+    2.    This query can help you count a values in two different table.
+    3.    [Query and Sample Output](/sample/query.md/#Query-19)
