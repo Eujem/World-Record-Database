@@ -191,3 +191,15 @@
 
 [Go Back](/README.md/#Query-14)
 
+## Query 15
+
+#### SELECT COUNT(DISTINCT CountryName) AS TotalCountry, COUNT(DISTINCT Region) AS TotalRegion, COUNT(DISTINCT GovernmentForm) AS TotalGovernmentForm,
+#### SUM(Population)
+#### FROM country;
+
+## Output
+
+![](/images/query15.png)
+
+[Go Back](/README.md/#Query-15)
+
