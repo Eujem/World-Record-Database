@@ -216,3 +216,17 @@
 ![](/images/query16.png)
 
 [Go Back](/README.md/#Query-16)
+
+## Query 17
+
+#### SELECT country.Continent, city.Name
+#### FROM city
+#### RIGHT JOIN country
+#### ON city.CountryCode = country.Code
+#### WHERE country.Continent = 'Asia';
+
+## Output
+
+![](/images/query17.png)
+
+[Go Back](/README.md/#Query-17)
