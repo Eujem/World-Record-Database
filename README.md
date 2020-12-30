@@ -114,3 +114,9 @@ This Diagram shows the dependency of each column in every table in this database
     1.    This query calculates the total average of population in every city in a country.
     2.    This query can give you average count in a column.
     3.    [Query and Sample Output](/sample/query.md/#Query-16)
+
+#### Query 17
+* 
+    1.    This query shows all the cities in the Asia.
+    2.    This query can find values without using primary keys.
+    3.    [Query and Sample Output](/sample/query.md/#Query-17)
