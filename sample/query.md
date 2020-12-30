@@ -242,3 +242,17 @@
 ![](/images/query18.png)
 
 [Go Back](/README.md/#Query-18)
+
+## Query 19
+
+#### SELECT country.CountryName, COUNT(city.CountryCode) AS NumberOfCities
+#### FROM country
+#### LEFT JOIN city
+#### ON country.Code = city.CountryCode
+#### GROUP BY country.CountryName
+
+## Output
+
+![](/images/query19.png)
+
+[Go Back](/README.md/#Query-19)
